@@ -11,6 +11,7 @@
 - ![image](https://github.com/user-attachments/assets/82fe5611-1ad9-40b5-a809-6cdf98ea8b2d)
 7) Открываем пул реквест https://github.com/ВАШ_ЛОГИН_ГИТХАБ/Data-Science-For-Beginners-from-scratch-SENATOROV/compare
 ![image](https://github.com/user-attachments/assets/1bf7e1fa-12e6-4e38-bfea-d93732cccedd)
+``Пишем в title: Add ВАШ_ЛОГИН to Contributors list``
 8) Присылаем ссылку на ваш пул реквест в комментарии сюда
 9) Вставляете себе в ПОРТФОЛИО информацию что вы контребьютели в SENATOROVAI и пишете эту ссылку
 https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/graphs/contributors
