@@ -1,7 +1,7 @@
 ### Как законтребьютить?
 1) Нажимаем Star 
 - ![image](https://github.com/user-attachments/assets/930c04ae-1bb2-4006-b90f-217ab736d3e8)
-2) Делаем Fork
+2) Делаем Fork https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/fork
 3) В вашем Форке открываем файл https://github.com/ВАШ_ЛОГИН_ГИТХАБ/first-contributions-Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/Contributors.md
 4) Нажимаем на карандаш
 - ![image](https://github.com/user-attachments/assets/2f8d20a8-6e0d-425f-bf82-64d3433c9215)
