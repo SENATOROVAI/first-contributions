@@ -12,7 +12,7 @@
 7) Открываем пул реквест https://github.com/ВАШ_ЛОГИН_ГИТХАБ/first-contributions-Data-Science-For-Beginners-from-scratch-SENATOROV/compare
 ![image](https://github.com/user-attachments/assets/1bf7e1fa-12e6-4e38-bfea-d93732cccedd)
 Пишем в title: ``Add ВАШ_ЛОГИН to Contributors list``
-8) Присылаем ссылку на ваш пул реквест в комментарии сюда
+8) Присылаем ссылку на ваш пул реквест в комментарии сюда https://t.me/RuslanSenatorov/1499
 9) Вставляете себе в ПОРТФОЛИО информацию что вы контребьютели в SENATOROVAI и пишете эту ссылку
 https://github.com/SENATOROVAI/first-contributions-Data-Science-For-Beginners-from-scratch-SENATOROV/graphs/contributors
 10) ПОЗДРАВЛЯЮ! ВЫ КОНТРЕБЬЮТОР!  
