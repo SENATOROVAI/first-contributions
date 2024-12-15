@@ -18,4 +18,4 @@ https://github.com/SENATOROVAI/first-contributions-Data-Science-For-Beginners-fr
 10) ПОЗДРАВЛЯЮ! ВЫ КОНТРЕБЬЮТОР!  
 
 
-### Жду ваши предложения здесь https://github.com/SENATOROVAI/first-contributions/contribute
+### Жду ваши вопросы и предложения здесь https://github.com/SENATOROVAI/first-contributions/contribute
