@@ -17,4 +17,4 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 10) ПОЗДРАВЛЯЮ! ВЫ КОНТРЕБЬЮТОР!  
 
 
-### Жду ваши предложения здесь https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/contribute
+### Жду ваши предложения здесь https://github.com/SENATOROVAI/first-contributions/contribute
